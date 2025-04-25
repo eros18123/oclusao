@@ -1,2 +1,4 @@
 # oclusao
-oclusao de imagem simples para anki
+oclusao de imagem simples para anki <br>
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEietlSOC6F3xpCozB1LHvhZmebqfukJvSWsQq_YLx65aJfLojk6SOBKPddZ479MBvbBY906cATfcwV2jeFpRwk1pGpQa9yxU_fqG6fidh15JRy_hmNwsBsU2CfH1o6kCVHGi7giX22PLyVR-NGUM9_iKqZSNnugR0sNsHYWS7RyrCBt28lDgEV1r2f8XQ54/s666/20250424_181235.gif">
