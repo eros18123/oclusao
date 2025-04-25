@@ -1,0 +1,13 @@
+{
+  "package": "drag_anki",
+  "name": "Drag Anki Add-on",
+  "mod": 20250411,
+  "min_point_version": 0,
+  "max_point_version": 49,
+  "branch_index": 0,
+  "disabled": false,
+  "conflicts": [],
+  "description": "Anki add-on for editing images with draggable rectangles and text annotations.",
+  "version": "1.0.0",
+  "homepage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "config": {
+    "default_text_position": "top",
+    "default_card_mode": "single",
+    "rectangle_border_color": "#000000",
+    "rectangle_fill_color": "#FFFF00",
+    "text_font_size": 14,
+    "show_buttons_by_default": true,
+    "last_used_timestamp": ""
+  },
+  "version": "1.0.1",
+  "enabled": true
+}
